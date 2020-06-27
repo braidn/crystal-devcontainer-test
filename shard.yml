@@ -1,0 +1,6 @@
+name: devcontainer-test
+version: 0.1.0
+
+dependencies:
+  runcobo:
+    github: runcobo/runcobo
